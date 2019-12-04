@@ -24,3 +24,12 @@
 /Godeps/
 
 # End of https://www.gitignore.io/api/go
+/.idea/.gitignore
+/01_GRPC_HelloWorld/client/client
+/.idea/LetsDoSomeGRPCInGo.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/01_GRPC_HelloWorld/server/server
+/01_GRPC_HelloWorld/service/service.pb.go
+/01_GRPC_HelloWorld/service/service.proto
+/.idea/vcs.xml
