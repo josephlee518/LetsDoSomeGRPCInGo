@@ -17,4 +17,4 @@ A... I Don Know How To Use GRPCs in Golang... Let's Do Some Practice on Golang.
 
 ## Resources when I practice
 - GRPC Homepage: https://grpc.io/
-- [1]: https://medium.com/google-cloud/grpc-over-browser-javascript-using-grpc-web-on-google-kubernetes-engine-ingress-740789b811e8
+- `[1]`: https://medium.com/google-cloud/grpc-over-browser-javascript-using-grpc-web-on-google-kubernetes-engine-ingress-740789b811e8
