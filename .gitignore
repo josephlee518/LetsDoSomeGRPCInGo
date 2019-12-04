@@ -30,6 +30,5 @@
 /.idea/misc.xml
 /.idea/modules.xml
 /01_GRPC_HelloWorld/server/server
-/01_GRPC_HelloWorld/service/service.pb.go
-/01_GRPC_HelloWorld/service/service.proto
+*.pb.go
 /.idea/vcs.xml
